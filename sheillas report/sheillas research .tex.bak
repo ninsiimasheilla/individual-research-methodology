@@ -1,0 +1,79 @@
+
+
+\documentclass[12pt,]{article}
+\usepackage{zed-csp,graphicx,color}%from
+\pagenumbering{roman}
+\begin{document}
+
+\begin{titlepage}
+\centerline{effects of identity theft and deployment of biometrics to curb down identity theft in banks of uganda.\\}
+\paragraph*{•}
+\centerline{  Prepared by:  Ninsiima sheilla 16/U/964 216001139.\\}
+\paragraph*{•}
+\paragraph*{•}
+  \begin{flushright}
+  The Report,\\
+  DATE: $February,6^{th},2018$.
+ \tableofcontents
+
+  \end{flushright}
+\date{\today}
+\end{titlepage}
+
+\newpage
+
+
+
+
+
+\pagenumbering{arabic}
+\section{Introduction}
+Identity theft is the use of another person’s identification such as credit card number, social security number or any other personal information to commit a crime or theft without the owner’s permission.
+It causes a lot of damage to the victims by ruining their reputation and also consuming their money and time while resolving the issue.
+
+\section{Statement of the problem}
+The purpose of this study is to identify the effects of identity theft  to people and the use of biometrics systems to curb down the crime.
+
+\section{Main objectives of the study}
+To examine the effects and characteristics of identity theft and the common method used in stealing someone’s identity.
+\section{specific objective of the study}
+
+To know the different ways of how identity theft is done and alert fellow citizens to be careful and safeguard their identity.
+To emphasize the installation of biometric system that will curb down the bad act of identity theft.
+To determine if government officials claims and the medias portrayal of the substantial rise in identity theft incidents are supported empirically.
+
+
+\section{Significance of the study}
+To determine useful information to help understand and counter identity theft and identify how the thieves obtain false identities.
+\section{Scope of the study}
+This study was limited to only banks in Uganda where the effects and the ways on how to reduce identity theft were discussed.
+
+\section{Methods of study used }
+The data was obtained using analytical research where from the internet I managed to obtain some facts about identity theft and I was able to analyze its effects onto the victims and the different ways used to curb down the crime.
+Quantitative methodology was used where I sampled a group of people in the bank and I found out that more than one hundred victims have been affected by identity theft.
+
+\section{Recommendations }
+Based on the findings and conclusions in this study, the following recommendations are made:
+
+\begin{enumerate}
+
+\item People should put a fraud alert on their credit reports. A fraud alert puts a red flag on your credit report and notifies lenders and creditors that they should take extra steps to verify your identity before extending credit.
+
+\item People should contact any institution directly affected incase one’s credit or debit card has been stolen, report the theft to the credit card issuer or your bank.
+
+\item People should regularly check credit reports and banking accounts through logging into their accounts atleast monthly to monitor activity and review your credit report atleast annually.
+\end{enumerate}
+\section{References}
+\begin{itemize}
+\item Graham Birley and Neil Moreland, 1998 A Practical Guide to Academic Research 
+\item www.Creditsesame.com/blog/credit
+\end{itemize}
+
+
+\end{document}
+
+
+
+
+
+
